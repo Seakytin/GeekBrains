@@ -8,6 +8,7 @@ public class lesson2 {
             fillDiagonal();
             fillDiagonal1();
             minAndMax();
+            System.out.println(summaadel());
 
     }
 
@@ -83,7 +84,28 @@ public class lesson2 {
         System.out.println(max);
         System.out.println(min);
     }
-
+    public static boolean summaadel() {
+        int i =0;
+        int sum = 0;
+        int sum2 = 0;
+        boolean isTrue = true;
+        int[] arr = {2, 5, 3, 2, 11, 4, 5, 1, 4, 8, 8, 1};
+        for (i = 0; i < arr.length; i++) {
+            sum = sum + arr[i];
+        }
+        if (sum % 2 == 0) {
+            System.out.println(true);
+            //System.out.println(sum); не очень хорошо понял как использовать boolean операцию в данном месте
+        }
+        for (int j = 0; j < arr.length; j++) {
+            sum2 = sum2 + arr[j];
+           if (sum2 == sum/2)
+               break;
+        }
+        if (sum2 == sum/2) return true;
+        else
+            return false;
+        }
 }
 
 
