@@ -23,7 +23,7 @@
       <change beforePath="$PROJECT_DIR$/../../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../out/production/GeekBrains/homework/lesson2/lesson2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/GeekBrains/homework/lesson2/lesson2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/TicTacToe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,15 +64,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="180" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1611238294650">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="361" y="180" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.984@0.0.1280.984" timestamp="1611238294650" />
-    <state x="420" y="246" key="FileChooserDialogImpl" timestamp="1611238308320">
+    <state x="420" y="246" key="FileChooserDialogImpl" timestamp="1611556211151">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="420" y="246" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1611238308320" />
+    <state x="420" y="246" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1611556211151" />
   </component>
 </project>
